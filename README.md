@@ -87,3 +87,6 @@ The main operations performed after deployment include minting NFTs, setting met
 - **Minted 50 Pokéballs (ERC1155 Token ID 1)**: [0xb64f4a05cb8b681599849b8e2c8f64de6a27511203f3e4ae1b0b4c2af6fb86df](https://sepolia.etherscan.io/tx/0xb64f4a05cb8b681599849b8e2c8f64de6a27511203f3e4ae1b0b4c2af6fb86df)
 - **Set Pokéball Metadata URI**: [0x6e206adef250525eadd372b3e22fd68ef04e100198fdc75183e993f4bead91d6](https://sepolia.etherscan.io/tx/0x6e206adef250525eadd372b3e22fd68ef04e100198fdc75183e993f4bead91d6)
 - **Transferred Reward Tokens to Staking Contract**: [0x2d0c03ccba54ecc025d48ee649949b846f451ba19cae3fd1b3b788149603a84a](https://sepolia.etherscan.io/tx/0x2d0c03ccba54ecc025d48ee649949b846f451ba19cae3fd1b3b788149603a84a)
+- **Listed Pikachu (ERC721 Token) for sale**: [0x35383fe8e1680e3a8395a94ab390daf64403c5a11f3284eaea28235a5f95b3d3](https://sepolia.etherscan.io/tx/0x35383fe8e1680e3a8395a94ab390daf64403c5a11f3284eaea28235a5f95b3d3)
+- **Listed Charmander (ERC721 Token) for sale**: [0xe24bcaee6b8b2841b1157c424b58aa4b3f165ad35096108f9dc8b14ed7dfd314](https://sepolia.etherscan.io/tx/0xe24bcaee6b8b2841b1157c424b58aa4b3f165ad35096108f9dc8b14ed7dfd314)
+- **Listed 10 Pokéballs (ERC1155 Token) for sale**: [0x6320e1e34281ac58a63eb3eb73c81c67a312bf16e1a70041d7ae69cc5502cbae](https://sepolia.etherscan.io/tx/0x6320e1e34281ac58a63eb3eb73c81c67a312bf16e1a70041d7ae69cc5502cbae)
