@@ -1,4 +1,4 @@
 export const contractAddresses = {
-  nftCollection: '0x3af6Ed5A2296a3cFA285df7Dc026AD59Ee502884', // Update with deployed ERC721 address
-  marketplace: '0xc0bf55344DEEBd12e358fD6aA28c03822e0bfd06', // Update with deployed Marketplace address
+  nftCollection: '0x811c806Bc4c19E7Bb3eF0a0cA818ab8c4A61D0A8', // Update with deployed ERC721 address
+  marketplace: '0x2D19CEF3ec27133C862f6b51D11b7B52AdB97dC5', // Update with deployed Marketplace address
 };
