@@ -1,0 +1,30 @@
+{
+  "name": "dapp-nft-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "npx hardhat clean",
+    "compile": "npx hardhat compile && npm run export-abis",
+    "deploy": "npm run clean && npm run compile && npx hardhat run ./scripts/deploy.ts --network",
+    "deploy_and_setup": "npm run clean && npm run compile && npx hardhat run ./scripts/deploy_and_setup.ts --network",
+    "export-abis": "npx hardhat run scripts/exportAbis.ts",
+    "test": "npm run clean && npm run compile && npx hardhat test",
+    "retest": "npx hardhat test",
+    "coverage": "npx hardhat coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/hardhat-upgrades": "^3.5.0",
+    "hardhat": "^2.22.15",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4"
+  }
+}
