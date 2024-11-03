@@ -1,5 +1,7 @@
 # Project: Blockchain Smart Contracts & DApp Implementation
 
+## Check it live: https://brianmontero18.github.io/dapp-nft-marketplace/
+
 This project includes the development, deployment, and testing of several Ethereum-based smart contracts and a decentralized application (DApp) frontend. The project is divided into four main phases, with each phase building on the previous ones to create a complete solution that integrates ERC-20 tokens, NFTs (ERC-721 and ERC-1155), and an NFT marketplace with custom functionalities. Additionally, a DApp interface was implemented to interact with these smart contracts.
 
 ## Smart Contracts Overview
